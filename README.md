@@ -1,3 +1,7 @@
+#CATATAN
+
+sudah setting support laravel 9
+
 <div align="center">
     <a href="https://php.net">
         <img
@@ -37,7 +41,7 @@ For other systems, see the [installation chapter](https://php.net/install).
 
 ### Building PHP source code
 
-*For Windows, see [Build your own PHP on Windows](https://wiki.php.net/internals/windows/stepbystepbuild_sdk_2).*
+_For Windows, see [Build your own PHP on Windows](https://wiki.php.net/internals/windows/stepbystepbuild_sdk_2)._
 
 For a minimal PHP build from Git, you will need autoconf, bison, and re2c. For
 a default build, you will additionally need libxml2 and libsqlite3.
@@ -139,3 +143,9 @@ contribute:
 
 For the list of people who've put work into PHP, please see the
 [PHP credits page](https://php.net/credits.php).
+=======
+
+# PHP Versi 8.1.2
+
+- support laravel 9
+  > > > > > > > 71b0b7cce86dfa8f30b6ea50a92ef29d0953429c
